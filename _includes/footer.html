@@ -1,0 +1,18 @@
+<footer id="footer">
+
+  <div class="lockup">
+
+    <div class="content-wrap">
+      <nav>
+        {% for item in site.data.settings.menu %}
+          <a href="{{ item.url }}">{{ item.name }}</a>
+        {% endfor %}
+      </nav>
+
+      <p class="copyright">All project copyright {{ site.time | date: '%Y' }}</p>
+      <p class="copyright"> With help of DevTips</p>
+    </div>
+
+  </div>
+
+</footer>
