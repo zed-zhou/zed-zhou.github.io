@@ -1,13 +1,23 @@
 ---
 layout: page
-title: About
 sidebar_link: true
+title: About
 ---
+****
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+## Zed,
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+##### a.k.a Zijian Zhou / 延静斋孙
+****
+
+Twitter   [@yanjingzhai](https://twitter.com/yanjingzhai)
+
+Soundcloud [@yanjingzhaisun](https://soundcloud.com/yanjingzhaisun)
+
+Weibo     [@延静斋孙](http://weibo.com/yanjingzhai)
+
+Email <mailto:zedzhou@zedz.info>
+
+-----
+
+Thanks for reading!
