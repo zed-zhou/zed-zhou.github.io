@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:           Zed 
 tagline:          'a GAME designer'
-description:     'A Game Designer who always serve as Programmer, Writer, Hardware Engineer, Sound Guy, sometimes even Cook.'
+description:     'A Game Designer who always serves as Programmer, Writer, Hardware Engineer, Sound Guy, sometimes even Cook.'
 url:              https://zedz.info
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
