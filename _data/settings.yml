@@ -11,7 +11,7 @@ menu:
 - {name: About Me, url: '#about-me'}
 - {name: Work, url: '#work'}
 - {name: Contact, url: '#contact'}
-- {name: Resume, url: 'http://zedz.info/download/Resume.pdf'}
+- {name: Resume, url: 'https://zed-zhou.github.io/download/Resume.pdf'}
 - {name: Back, url: 'http://zedz.info'}
 
 
