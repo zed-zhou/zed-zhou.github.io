@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-01T16:33:23-05:00</updated><id>http://localhost:4000/</id><title type="html">Zed</title><subtitle>A Game Designer who always serves as Programmer, Writer, Hardware Engineer, Sound Guy, sometimes even Cook.</subtitle><author><name>Zijian Zhou</name><email>yanjingzhaisun@gmail.com</email></author><entry><title type="html">Podcast collaborate with Indienova.com</title><link href="http://localhost:4000/2016/08/18/podcast-update.html" rel="alternate" type="text/html" title="Podcast collaborate with Indienova.com" /><published>2016-08-18T00:00:00-04:00</published><updated>2016-08-18T00:00:00-04:00</updated><id>http://localhost:4000/2016/08/18/podcast-update</id><content type="html" xml:base="http://localhost:4000/2016/08/18/podcast-update.html">&lt;p&gt;&lt;em&gt;Indienova&lt;/em&gt; is a game media website focused on indie games based in Chinese context.
+Personally I believe this is one of the best game medias in China for their understanding
+and professionality of game, as well as their broad view among China and worldwide market,
+ which is kinda hard - most people either familiar with international market, or China market.&lt;/p&gt;
+
+&lt;p&gt;This is &lt;em&gt;not&lt;/em&gt; Chinese Exceptionalism, it’s just because of different censorship,
+ audience acceptance and consumer custom.&lt;/p&gt;
+
+&lt;p&gt;Anyway, we hold a new podcast together with Indienova, focusing on game design
+  prospective. The program is recorded using Chinese, hope you are good at Chinese XD&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://indienova.com/indie-game-review/indienova-radio-vol1-her-story-and-its-narrative-design/&quot;&gt;vol01 Her Story and its Narrative Design&lt;/a&gt;&lt;/p&gt;</content><author><name>Zijian Zhou</name><email>yanjingzhaisun@gmail.com</email></author><summary type="html">Indienova is a game media website focused on indie games based in Chinese context. Personally I believe this is one of the best game medias in China for their understanding and professionality of game, as well as their broad view among China and worldwide market, which is kinda hard - most people either familiar with international market, or China market.</summary></entry><entry><title type="html">Back Again!</title><link href="http://localhost:4000/2016/08/18/back-again.html" rel="alternate" type="text/html" title="Back Again!" /><published>2016-08-18T00:00:00-04:00</published><updated>2016-08-18T00:00:00-04:00</updated><id>http://localhost:4000/2016/08/18/back-again</id><content type="html" xml:base="http://localhost:4000/2016/08/18/back-again.html">&lt;p&gt;Long time no see! XD&lt;/p&gt;</content><author><name>Zijian Zhou</name><email>yanjingzhaisun@gmail.com</email></author><summary type="html">Long time no see! XD</summary></entry><entry><title type="html">Experience of Deck Building Game</title><link href="http://localhost:4000/2016/02/15/experience-of-ucg.html" rel="alternate" type="text/html" title="Experience of Deck Building Game" /><published>2016-02-15T00:00:00-05:00</published><updated>2016-02-15T00:00:00-05:00</updated><id>http://localhost:4000/2016/02/15/experience-of-ucg</id><content type="html" xml:base="http://localhost:4000/2016/02/15/experience-of-ucg.html">&lt;p&gt;Deck Building Game is a genre that is really hot these days.
+Personally I like it a lot, however there are also some issues
+that need particular care to make sure the game is going to
+work, and we meet some of them in our projects, which is really
+a pain in back.&lt;/p&gt;
+
+&lt;p&gt;The most important feature to be noticed is that most deck building games are &lt;em&gt;slow&lt;/em&gt;.
+Such slowness comes from at least 2 aspects:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;The purchasing process. For many deck building games after you purchase cards in the center store, the cards go to your discard pile, which makes it come back to your hand at least 1 turn later.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The economy system of such game. To run a efficient economy, players must purchase some cards which focus on economy building of their deck, which essentially dilute the probability of drawing those “winning-related” key cards.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;However, these aspects have their own reason to exist, and need to be more carefully dealt with.&lt;/p&gt;
+
+&lt;p&gt;The slowness of purchasing process is actually somehow deliberated, or at least in the deck building game that I made. The point is, comparing to CCGs, in deck building games, &lt;em&gt;people who purchase those powerful cards are at least economically strong&lt;/em&gt;. If we accelerate the game by make all cards purchased directly go into those hands who purchased them, such fast pace might be easy to form a huge positive feedback that other players may not be able to  catch up with.&lt;/p&gt;
+
+&lt;p&gt;The economy system of such game I believe has more interesting tricks to be done. In my project, I give each card 2 roles.&lt;/p&gt;
+
+&lt;p&gt;The first role is what it is as that card itself: the effect on it, the attack that it provide to monsters, etc.&lt;/p&gt;
+
+&lt;p&gt;The second role is money. Those cards can also be used as money, as long as you discard them into discard pile, while not let the effects on them happen.&lt;/p&gt;
+
+&lt;p&gt;This later role actually provides more meaningful choices for players to make. Shall I use the effects of the cards, or shall I use them as money to purchase more powerful cards? Choices emerge from the very beginning of the game.&lt;/p&gt;
+
+&lt;p&gt;Also, because we add a mechanic where you are able to obtain other players’ cards when they are used as money if you meet certain criteria, this decision is even more challenging. Shall I use this expensive card as money to fill up the money gap when I try to purchase something I really need while taking the risk of being captured by other players? Or should I just wait for next round while other players may also lay their eyes on that “something”?&lt;/p&gt;
+
+&lt;p&gt;Personally I think that the choices we make on the project as game designer are overall good. Yet I believe that these techniques still need more carefully examine as it may not be appropriate for every game.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Think the reason.&lt;/em&gt; This is the only correct way to use other people’s idea.&lt;/p&gt;</content><author><name>Zijian Zhou</name><email>yanjingzhaisun@gmail.com</email></author><summary type="html">Deck Building Game is a genre that is really hot these days. Personally I like it a lot, however there are also some issues that need particular care to make sure the game is going to work, and we meet some of them in our projects, which is really a pain in back.</summary></entry><entry><title type="html">Economy reading list for non-economist</title><link href="http://localhost:4000/2016/02/12/economy-reading-list.html" rel="alternate" type="text/html" title="Economy reading list for non-economist" /><published>2016-02-12T00:00:00-05:00</published><updated>2016-02-12T00:00:00-05:00</updated><id>http://localhost:4000/2016/02/12/economy-reading-list</id><content type="html" xml:base="http://localhost:4000/2016/02/12/economy-reading-list.html">&lt;p&gt;When I was a child, I always thought that Economics is all about money. Just like every idealist youth, I’m not a big fan of the concept of &lt;em&gt;money&lt;/em&gt;; conversely, I held the idea that money is highly related to sin, not through a puritanic understanding, but more of a shallow observation from a teenager’s eye.&lt;/p&gt;
+
+&lt;p&gt;However, my understanding of Economics, if not incorrect, is inaccurate. After several search I found that since the rise of behavior school, Economics has become a discipline that tries to abstract human into mathematics in order to understand them, (for me) as an alternative and simple black-box method instead of Psychology.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;That is what I’m really interested in.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Also, from practice perspective of views, it’s also helpful in my later game project, where I need to build a fictional country with at least basic economy systems for players to tweak around. Therefor I believe that some Economy readings is necessary.&lt;/p&gt;
+
+&lt;p&gt;The requirement for the readings is only 1: &lt;em&gt;Not Boring&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here is my list:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;Poor Economics&lt;/em&gt;, by Duflo and Banerjee;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Why Nations Fall&lt;/em&gt;, by Acemoglu and Robinson;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;The Other Path&lt;/em&gt;, by de Soto;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Capital in the 21th Century&lt;/em&gt;, by Piketty;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;The Price of Inequality&lt;/em&gt;, by Stiglitz;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Triumph of the City&lt;/em&gt;, by Glaeser;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;The Grabbing Hand&lt;/em&gt;, by Shleifer;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;The Economics of Life&lt;/em&gt;, by Becker;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Random Walk Down Wall Street&lt;/em&gt;, by Malkiel;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Irrational Exuberance&lt;/em&gt;, by Shiller;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Thinking, Fast and Slow&lt;/em&gt;, by Kahneman;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Freakonomics&lt;/em&gt;, by Levitt and Dubner;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;The Honest Truth of Dishonesty&lt;/em&gt;, by Ariely;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A good number for the amount of reading list. I’m so &lt;em&gt;evil&lt;/em&gt;.&lt;/p&gt;</content><author><name>Zijian Zhou</name><email>yanjingzhaisun@gmail.com</email></author><summary type="html">When I was a child, I always thought that Economics is all about money. Just like every idealist youth, I’m not a big fan of the concept of money; conversely, I held the idea that money is highly related to sin, not through a puritanic understanding, but more of a shallow observation from a teenager’s eye.</summary></entry><entry><title type="html">Moving to Jekyll</title><link href="http://localhost:4000/2016/02/11/moving-to-jekyll.html" rel="alternate" type="text/html" title="Moving to Jekyll" /><published>2016-02-11T00:00:00-05:00</published><updated>2016-02-11T00:00:00-05:00</updated><id>http://localhost:4000/2016/02/11/moving-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2016/02/11/moving-to-jekyll.html">&lt;p&gt;Finally decided that I should use jekyll to build my own blog, and (after several hours struggle) it really feels great!&lt;/p&gt;
+
+&lt;p&gt;AND Markdown is so awesome that I didn’t really want to switch to another blog engine now. I used to worried about whether Markdown would support Chinese or not, but when I actually tried it, 完全没问题啊。&lt;/p&gt;
+
+&lt;p&gt;虽然说中英文混编看起来有点诡异，不过这个也算是一直以来的老大难问题了。如果只是单独输入中文的话，看起来还是很美观的，可读性也比较高。&lt;/p&gt;
+
+&lt;p&gt;虽然不知道为什么比英文感觉要大一号。&lt;/p&gt;</content><author><name>Zijian Zhou</name><email>yanjingzhaisun@gmail.com</email></author><summary type="html">Finally decided that I should use jekyll to build my own blog, and (after several hours struggle) it really feels great!</summary></entry></feed>

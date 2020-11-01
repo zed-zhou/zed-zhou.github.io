@@ -37,7 +37,9 @@
           <div class="noscript" id="content-{{ project.folder }}">
             <h4 class="project-title">{{ project.name }}</h4>
             <div class="noscript-load">
+              {{project.file}}
               {% include {{project.file}} %}
+
             </div>
           </div>
         {% endfor %}
