@@ -61,12 +61,15 @@ skills:
 # Work Section
 
 projects:
+- {name: Drink Bar, folder: 'proj-10', file: 'work/proj-10.html'}
+- {name: Sometimes, folder: 'proj-11', file: 'work/proj-11.html'}
+- {name: Soul-like Demo, folder: 'proj-12', file: 'work/proj-12.html'}
 - {name: Monster Farm, folder: 'proj-1', file: 'work/proj-1.html'}
 - {name: Rescuties, folder: 'proj-2', file: 'work/proj-2.html'}
 - {name: NoseDive, folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: Semantic Satiation, folder: 'proj-4', file: 'work/proj-4.html'}
 - {name: Sin-k, folder: 'proj-5', file: 'work/proj-5.html'}
-# - {name: A Visit to Friend, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: A Visit to Friend, folder: 'proj-6', file: 'work/proj-6.html'}
 - {name: Yggdrasil, folder: 'proj-7', file: 'work/proj-7.html'}
 - {name: DinosAR, folder: 'proj-9', file: 'work/proj-9.html'}
 - {name: Smash Gear!, folder: 'proj-8', file: 'work/proj-8.html'}
